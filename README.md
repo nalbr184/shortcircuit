@@ -1,2 +1,2 @@
-# shortcircuit
-Team Short Circuit's repository for ME EN 330.
+# Welcome!
+This is team Short Circuit's repository for ME EN 330.
