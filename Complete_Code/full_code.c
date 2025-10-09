@@ -5,7 +5,6 @@
 #define HIGH 1
 #define LOW 0
 
-int main()
-{
+int main(){
     printf("Welcome to our code!");
 }
