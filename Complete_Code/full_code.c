@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#pragma config FRC     //8MHz Oscillator
+// 8MHz Oscillator
+#pragma config FRC
 
 // Define global variables
 #define HIGH 1
